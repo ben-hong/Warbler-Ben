@@ -17,7 +17,7 @@ from models import db, Message, User
 
 os.environ['DATABASE_URL'] = "postgresql:///warbler-test"
 
-# Now we can import app
+# we can import app
 
 from app import app, CURR_USER_KEY
 

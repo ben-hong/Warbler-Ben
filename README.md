@@ -1,6 +1,6 @@
 # Warbler
 ---
-A Twitter Clone created with Python, Flask, SQLAlchemy, and Jinja.
+A Twitter-like App created with Python, Flask, SQLAlchemy, and Jinja.
 ---
 ## Demo
 ---
